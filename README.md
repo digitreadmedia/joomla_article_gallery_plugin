@@ -1,4 +1,4 @@
-# Joomal Article Gallery Plugin
+# Joomla Article Gallery Plugin
 ---
 This plugin requires the [**Joomla Article Gallery Module**](https://github.com/digitreadmedia/joomla_article_gallery_module)
 
