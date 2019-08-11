@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+   <form>
+      <fields name="attribs">
+         <fieldset name="gallery" label="PLG_CONTENT_DIGITREAD_ARTICLE_GALLERY_FIELD_TAB_LABEL">
+            <field
+               name="images"
+               type="subform"
+			   formsource="plugins/content/digitread_article_gallery/fields/images.xml" multiple="true"
+               id="images"
+               description="PLG_CONTENT_DIGITREAD_ARTICLE_GALLERY_FIELD_GALLERY_DESC"
+               label="PLG_CONTENT_DIGITREAD_ARTICLE_GALLERY_FIELD_GALLERY_LABEL"
+               message="PLG_CONTENT_DIGITREAD_ARTICLE_GALLERY_FIELD_GALLERY_MESSAGE"
+            />
+         </fieldset>
+      </fields>
+   </form>

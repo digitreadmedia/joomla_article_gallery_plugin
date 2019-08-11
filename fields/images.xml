@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form>
+	<field name="image" type="media" label="PLG_CONTENT_DIGITREAD_ARTICLE_GALLERY_FIELD_IMAGE_LABEL" directory="/" />
+    <field name="title" type="text" label="PLG_CONTENT_DIGITREAD_ARTICLE_GALLERY_FIELD_TITLE_LABEL" />
+	<field name="seo" type="text" label="PLG_CONTENT_DIGITREAD_ARTICLE_GALLERY_FIELD_SEOTITLE_LABEL" />
+</form>

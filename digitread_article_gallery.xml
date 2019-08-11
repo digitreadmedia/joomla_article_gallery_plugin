@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="3.9" type="plugin" group="content" method="upgrade">
+	<name>plg_content_digitread_article_gallery</name>
+	<author>Digitread Media</author>
+	<creationDate>2019-8-10</creationDate>
+	<copyright>Created by Digitread Media</copyright>
+	<license>MIT</license>
+	<authorEmail>info@digitreadmedia.co.za</authorEmail>
+	<authorUrl>https://www.digitread.co.za</authorUrl>
+	<version>3.9.10.1</version>
+	<description>PLG_CONTENT_DIGITREAD_ARTICLE_GALLERY_XML_DESCRIPTION</description>
+	<updateservers>
+		<server type="extension" priority="1" name="Article Gallery Updates">
+			https://www.digitread.co.za/digitreadreleases/update_articlegallery_plg.xml
+		</server>
+	</updateservers>	
+	<files>
+		<filename plugin="digitread_article_gallery">digitread_article_gallery.php</filename>
+		<folder>fields</folder>
+		<folder>language</folder>
+	</files>
+	<languages>
+		<language tag="en-GB">language/en-GB/en-GB.plg_content_digitread_article_gallery.ini</language>
+		<language tag="en-GB">language/en-GB/en-GB.plg_content_digitread_article_gallery.sys.ini</language>
+	</languages>
+	<config>
+		<fields name="params">
+		</fields>
+	</config>	
+</extension>
