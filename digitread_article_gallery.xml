@@ -7,7 +7,7 @@
 	<license>MIT</license>
 	<authorEmail>info@digitreadmedia.co.za</authorEmail>
 	<authorUrl>https://www.digitread.co.za</authorUrl>
-	<version>3.9.10.1</version>
+	<version>3.9.10.2</version>
 	<description>PLG_CONTENT_DIGITREAD_ARTICLE_GALLERY_XML_DESCRIPTION</description>
 	<updateservers>
 		<server type="extension" priority="1" name="Article Gallery Updates">
